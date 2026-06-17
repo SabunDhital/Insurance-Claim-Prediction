@@ -1,4 +1,4 @@
-Health Insurance Claim Cost Predictor
+#Health Insurance Claim Cost Predictor
 
 A data mining and predictive analytics project that utilizes multiple linear regression to estimate healthcare claim amounts based on patient demographic and biometric data.
 
